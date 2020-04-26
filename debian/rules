@@ -1,0 +1,16 @@
+#!/usr/bin/make -f
+
+#export DH_VERBOSE=1
+export DEB_BUILD_MAINT_OPTIONS = hardening=+all
+
+%:
+	dh $@
+
+override_dh_usrlocal:
+
+override_dh_installexamples:
+	dh_installexamples "examples/sxhkdrc"
+	dh_installexamples "examples/autostart"
+
+override_dh_compress:
+	dh_compress -Xexamples

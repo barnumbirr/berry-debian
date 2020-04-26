@@ -1,0 +1,18 @@
+Source: berry
+Section: x11
+Priority: extra
+Maintainer: Martin Simon <me@martinsimon.me>
+Build-Depends:
+ debhelper (>= 11),
+ libx11-dev,
+ libxft-dev,
+ libxinerama-dev
+Standards-Version: 4.5.0
+Homepage: https://github.com/JLErvin/berry
+
+Package: berry
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: sxhkd
+Provides: x-window-manager
+Description: A healthy, bite-sized window manager written in C.
