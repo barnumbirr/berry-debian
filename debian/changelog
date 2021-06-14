@@ -1,3 +1,9 @@
+berry (0.1.9-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Martin Simon <me@martinsimon.me>  Mon, 14 Jun 2021 00:00:00 +0000
+
 berry (0.1.8-1) unstable; urgency=medium
 
   * Version 0.1.8
