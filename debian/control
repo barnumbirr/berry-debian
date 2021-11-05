@@ -3,11 +3,11 @@ Section: x11
 Priority: extra
 Maintainer: Martin Simon <me@martinsimon.me>
 Build-Depends:
- debhelper (>= 11),
+ debhelper (>= 12),
  libx11-dev,
  libxft-dev,
  libxinerama-dev
-Standards-Version: 4.5.0
+Standards-Version: 4.5.1
 Homepage: https://github.com/JLErvin/berry
 
 Package: berry
