@@ -1,3 +1,9 @@
+berry (0.1.10-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Martin Simon <me@martinsimon.me>  Fri, 04 Feb 2022 00:00:00 +0000
+
 berry (0.1.9-2) unstable; urgency=medium
 
   * Bullseye is now stable
