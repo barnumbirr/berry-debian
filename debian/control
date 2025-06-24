@@ -1,7 +1,7 @@
 Source: berry
 Section: x11
 Priority: extra
-Maintainer: Martin Simon <me@martinsimon.me>
+Maintainer: Martin Simon <martin@simon.tf>
 Build-Depends:
  debhelper (>= 12),
  libx11-dev,

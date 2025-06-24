@@ -9,7 +9,7 @@ If you have [Docker](https://www.docker.com/) installed locally, just run the fo
 ```bash
 user@hostname$ ./build.sh
 ```
-By default this will build berry 0.1.12 on Debian Bullseye.
+By default this will build berry 0.1.13 on Debian Bookworm.
 
 If you want to customize the build at runtime, use the following:
 
@@ -30,7 +30,7 @@ To publish a new package version to Github, follow these steps:
 ```
 MIT License
 
-Copyright (c) 2020-2022, Martin Simon
+Copyright (c) 2020-2025, Martin Simon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

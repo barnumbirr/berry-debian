@@ -1,3 +1,10 @@
+berry (0.1.13-1) unstable; urgency=medium
+
+  * New upstream release
+  * Bookworm is now stable
+
+ -- Martin Simon <martin@simon.tf>  Tue, 24 Jun 2025 00:00:00 +0000
+
 berry (0.1.12-1) unstable; urgency=medium
 
   * New upstream release
